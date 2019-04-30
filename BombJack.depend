@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1556377680 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/Game.cpp
+	<Level.h>
+
+1556547822 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Level.h
+	<vector>
+	<GraphicsEngine.h>
+	<Mummy.h>
+	<Bird.h>
+	<Player.h>
+	<Platform.h>
+	<Bomb.h>
+
+1556245190 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/GraphicsEngine.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1556378454 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Player.h
+	<Character.h>
+
+1556545121 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Character.h
+	<GraphicsEngine.h>
+
+1556380335 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Platform.h
+	<GraphicsEngine.h>
+
+1556244207 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Bomb.h
+	<GraphicsEngine.h>
+
+1556545128 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Character.cpp
+	"Character.h"
+
+1556377671 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/GraphicsEngine.cpp
+	"GraphicsEngine.h"
+
+1556547815 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Level.cpp
+	<iostream>
+	"Level.h"
+	<sstream>
+	<string.h>
+	<cmath>
+
+1556381116 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Platform.cpp
+	"Platform.h"
+	<cmath>
+
+1556379223 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Player.cpp
+	"Player.h"
+	<Level.h>
+
+1556283906 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Bomb.cpp
+	"Bomb.h"
+
+1556544613 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Mummy.cpp
+	<iostream>
+	"Mummy.h"
+	<Level.h>
+
+1556497099 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Mummy.h
+	<Character.h>
+
+1556548120 source:/home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/src/Bird.cpp
+	<iostream>
+	"Bird.h"
+	"Level.h"
+
+1556497122 /home/nedyar/Documentos/CodeBlocksWorkspace/BombJack/include/Bird.h
+	<Character.h>
+
